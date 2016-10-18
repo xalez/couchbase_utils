@@ -1,2 +1,2 @@
 # couchbase_utils
-Simply scripts to simplify data import/export fro couchbase database
+Simply scripts to simplify data import/export from/to couchbase database
